@@ -1,0 +1,83 @@
+[
+    {
+        "id": "#0001",
+        "name": "Bulbasaur",
+        "type": "Grass",
+        "height": "2' 04",
+        "weight": "15.2 lbs",
+        "category": "Seed",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png"
+    },
+    {
+        "id": "#0002",
+        "name": "Ivysaur",
+        "type": "Grass",
+        "height": "3' 03",
+        "weight": "28.7 lbs",
+        "category": "Seed",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+    },
+    {
+        "id": "#0003",
+        "name": "Venusaur",
+        "type": "Grass",
+        "height": "6' 07",
+        "weight": "220.5 lbs",
+        "category": "Seed",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+    },
+    {
+        "id": "#0004",
+        "name": "Charmander",
+        "type": "Fire",
+        "height": "2' 00",
+        "weight": "18.7 lbs",
+        "category": "Lizard",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png"
+    },
+    {
+        "id": "#0005",
+        "name": "Charmeleon",
+        "type": "Fire",
+        "height": "3' 07",
+        "weight": "41.9 lbs",
+        "category": "Flame",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+    },
+    {
+        "id": "#0006",
+        "name": "Charizard",
+        "type": "Fire",
+        "height": "5' 07",
+        "weight": "199.5 lbs",
+        "category": "Flame",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+    },
+    {
+        "id": "#0007",
+        "name": "Squirtle",
+        "type": "Water",
+        "height": "1' 08",
+        "weight": "19.8 lbs",
+        "category": "Tiny Turtle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png"
+    },
+    {
+        "id": "#0008",
+        "name": "Wartortle",
+        "type": "Water",
+        "height":"3' 03",
+        "weight": "49.6 lbs",
+        "category": "Turtle",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
+    },
+    {
+        "id": "#0009",
+        "name": "Blastoise",
+        "type": "Water",
+        "height": "5' 03",
+        "weight": "188.5 lbs",
+        "category": "Shellfish",
+        "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+    }
+]
